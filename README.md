@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 [![POCHERON](./assets/codeBanner.jpg)](https://github.com/louispocheron/louispocheron)
 
-[![N|Solid](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://nodesource.com/products/nsolid) [my email](louispocheron@gmail.com)
+[![N|Solid](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://nodesource.com/products/nsolid) [my email](louispocheron@gmail.com/)
 
 
